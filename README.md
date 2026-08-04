@@ -4,8 +4,8 @@
 
 I'm a QA engineer who enjoys breaking things on purpose — currently focused on manual, mobile, API, and automation testing for real-world, multi-market production systems.
 
-- 🔭 Currently a **Software Testing Associate** at **VOIS**, testing a FinTech consumer app across 4 African markets (Tanzania, Kenya, Lesotho, DRC)
-- 🎓 Graduating from **Cairo University – Faculty of Computers and AI** (Information Systems), 2026
+- 🔭 a **Software Testing Associate** at **VOIS**, testing a FinTech consumer app across 4 African markets (Tanzania, Kenya, Lesotho, DRC) for 6 Months
+- 🎓 Graduated from **Cairo University – Faculty of Computers and AI** (Information Systems), 2026
 - 🏆 Graduation project **Talk2System** (AI-powered requirements engineering platform) was selected **Top 40 of 180** projects and showcased at CareerQuest 2026
 - 🧪 Background spans manual, regression, mobile, API, and automation testing across FinTech, government training programs, and internal enterprise tools
 - 📜 ISTQB® CTFL v4 (82.5%) & ISTQB® CT-MAT (87.5%) certified
@@ -71,6 +71,6 @@ I'm a QA engineer who enjoys breaking things on purpose — currently focused on
 
 ### 📫 Connect with me
 
-[LinkedIn](#) · [Email](#)
+[LinkedIn](http://www.linkedin.com/in/nourhan-ayman-761378267) · [Email](nourhanayman003@gmail.com)
 
-<!-- Replace the # links above with your actual LinkedIn and email/contact links -->
+<!-- Replace the # links above with your actual LinkedIn and email/contact links -
